@@ -160,12 +160,3 @@ AI_MODEL=gpt-4.1-mini
 
 Проект ещё не является production-ready SaaS, но уже имеет крепкую backend-основу.
 
-Что можно добавить дальше:
-
-- refresh tokens;
-- роли и permissions;
-- rate limiting;
-- streaming AI responses;
-- billing и тарифы;
-- CI через GitHub Actions;
-- деплой на VPS или cloud platform.
